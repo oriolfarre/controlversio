@@ -1,1 +1,2 @@
 # controlversio
+Fitxer readme editat
