@@ -1,2 +1,2 @@
 # controlversio
-Fitxer readme editat
+Readme modificat en local!
